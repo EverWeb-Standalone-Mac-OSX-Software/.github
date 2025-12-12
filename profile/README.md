@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/49837/m/everweb-logo.png?v=1668092264" width="200" alt="EverWeb Standalone application icon"><br>
+<img src="https://img.utdstc.com/icon/c5e/91d/c5e91df98431dbc67ad525d192036d915c6c3935a26989189493846fb49cbfb0:200" width="200" alt="EverWeb Standalone application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/everweb-standalone">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open EverWeb Standalone macOS product page">
 </a><br><br>
